@@ -1,0 +1,6 @@
+name=HideT3Units
+author=SharpDev
+description=A simple mod for the SNKRX modloader. It prevents max level units from appearing in the shop
+website=https://github.com/sharpdev-me/HideT3Units
+version=1.0
+main=main.lua
